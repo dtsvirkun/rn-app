@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">example</string>
+    <string name="default_notification_channel_id" translatable="false">ch</string>
+    <string name="reactNativeCodePush_androidDeploymentKey" translatable="false">KEY</string>
+</resources>
