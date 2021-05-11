@@ -19,7 +19,7 @@
     "@react-native-community/netinfo": "^4.6.1",
     "babel-plugin-module-resolver": "^3.2.0",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "ramda": "^0.26.1",
