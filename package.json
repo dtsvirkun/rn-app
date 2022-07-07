@@ -20,7 +20,7 @@
     "babel-plugin-module-resolver": "^3.2.0",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "ramda": "^0.26.1",
     "react": "16.9.0",
